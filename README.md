@@ -1,9 +1,7 @@
+### Olá, me chamo Danilo
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true)
 
-
-
-
-### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
