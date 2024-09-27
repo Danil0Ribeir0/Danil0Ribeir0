@@ -5,6 +5,10 @@
 - 2° Semestre de Ciência da Computação na UNIFOR
 - Atualmente aprendendo Análise de Dados e Java
 
+<h2 align="left">Languages and Tools:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,java,eclipse)](https://skillicons.dev)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true)
