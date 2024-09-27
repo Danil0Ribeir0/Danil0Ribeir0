@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,java,eclipse)](https://skillicons.dev)
 
-
+<h2 align="left">GitHub Stats:</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true)
 
