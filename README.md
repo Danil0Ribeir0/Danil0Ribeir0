@@ -2,8 +2,8 @@
 
 <h2 align="left">About Me:</h2>
 
-- 2° Semestre de Ciência da Computação na UNIFOR
-- Atualmente aprendendo Análise de Dados e Java
+I'm a BackEnd programmer and enjoy competitive programing;
+Actually learning Data Analysis and Java.
 
 <h2 align="left">Languages and Tools:</h2>
 
