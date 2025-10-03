@@ -8,7 +8,7 @@ Actually learning Data Analysis and Java.
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,java,eclipse,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,java,idea,django,git,c,js)](https://skillicons.dev)
 
 <h2 align="left">GitHub Stats:</h2>
 
