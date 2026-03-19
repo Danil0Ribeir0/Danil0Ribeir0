@@ -1,19 +1,33 @@
 ![image](https://github.com/user-attachments/assets/c387894c-b405-4b4f-9929-ec26fd8a223b)
 
-<h2 align="left">About Me:</h2>
+<h1 align="center">Hi there, I'm Danilo! 👋</h1>
 
-I'm a BackEnd programmer and enjoy competitive programing;
+<h3 align="center">Backend Developer | Algorithmic Problem Solver | Tech Enthusiast</h3>
 
-Actually learning Data Analysis and Java.
+<br>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🧑‍💻 About Me:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,java,idea,django,git,c,js)](https://skillicons.dev)
+I'm a Backend Developer with a strong passion for competitive programming and complex problem-solving. I thrive on tackling algorithmic challenges and exploring concepts involving Graph Theory, Operations Research, and Machine Learning. 
 
-<h2 align="left">GitHub Stats:</h2>
+I have a highly adaptable profile and love exploring different paradigms—from building API integrations and chatbots to experimenting with functional programming, C++ development, and even hardware electronics. I'm always looking for the best tool for the job.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true)
+**Currently focus:**
+- 📈 Deepening my knowledge in **Data Analysis** and **Java**.
+- 🏆 Solving continuous challenges on platforms like Beecrowd.
+- ⚙️ Exploring new architectures, project management principles, and languages like Clojure.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0Ribeir0&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vscode,java,idea,django,git,c,cpp,js,clojure,arduino" alt="My Skills" />
+  </a>
+</p>
 
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true&hide_border=true" alt="Danilo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0Ribeir0&theme=dark&layout=compact&hide_border=true" alt="Top Langs" />
+</p>
