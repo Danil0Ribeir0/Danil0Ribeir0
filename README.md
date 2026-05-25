@@ -24,10 +24,3 @@ I have a highly adaptable profile and love exploring different paradigms—from 
     <img src="https://skillicons.dev/icons?i=py,vscode,java,idea,django,git,c,cpp,js,clojure,arduino" alt="My Skills" />
   </a>
 </p>
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danil0Ribeir0&theme=dark&show_icons=true&hide_border=true" alt="Danilo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0Ribeir0&theme=dark&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
